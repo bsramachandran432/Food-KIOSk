@@ -88,17 +88,6 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 Start the frontend development server:
 npm start
 
-
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-📩 Contact
-For any questions or feedback, feel free to reach out:
-- 📧 Email: karthikeyanks463@gmail.com
-- 🏗️ GitHub: karthi-AI-hub
-
-
 This README.md file follows best practices, maintains clarity, visual appeal, and professionalism while making it highly attractive and engaging. 🚀 Let me know if you want any improvements! 🎯
 
 

@@ -45,7 +45,7 @@ ExcelPOS is a modern and efficient **Canteen Management System** designed to str
 
 ### 🔽 1. Clone the Repository
 ```bash
-git clone https://github.com/karthi-AI-hub/Food-Hub.git
+git clone https://github.com/bsramachandran432/Food-KIOSk.git
 cd Food-Hub
 
 ```
